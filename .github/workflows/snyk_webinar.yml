@@ -1,4 +1,4 @@
-name: Snyk - Webinar
+name: Snyk - CICD security gate
 on: workflow_dispatch #push #pull_request
 jobs:
   configure:
