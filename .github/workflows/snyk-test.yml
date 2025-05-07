@@ -1,4 +1,4 @@
-name: Snyk - Actions - webinar
+name: Snyk - Actions - test
 on: workflow_dispatch
 jobs:
   security:
